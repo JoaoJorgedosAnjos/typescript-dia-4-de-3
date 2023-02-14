@@ -1,2 +1,2 @@
-let code:number = 20
+let code:number = 80
 console.log(code);
